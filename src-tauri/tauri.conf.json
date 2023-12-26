@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "with-notion",
+    "productName": "with-worksmobile",
     "version": "0.0.0"
   },
   "tauri": {
@@ -20,7 +20,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.with-notion.dev",
+      "identifier": "com.with-worksmobile.dev",
       "icon": [
         "icons/128x128.png",
         "icons/icon.icns",
@@ -34,7 +34,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "with-notion",
+        "title": "with-worksmobile",
         "width": 1200,
         "height": 800
       }

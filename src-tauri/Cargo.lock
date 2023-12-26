@@ -3676,7 +3676,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "with-notion"
+name = "with-worksmobile"
 version = "0.0.0"
 dependencies = [
  "serde",
